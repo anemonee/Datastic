@@ -40,6 +40,6 @@ def parametergraph(dfT3, name, count):
     plt.show()
 
     
-csvparser('POI1_data.csv')
+csvparser('db/POI1_data.csv')
 
     

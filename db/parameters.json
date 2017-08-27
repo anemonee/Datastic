@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Vitamin D",
+        "nickname": "Vitamin D",
+        "type": "minmax",
+        "parameters": {
+            "min": 0,
+            "max": 100
+        }
+    },
+    {
+        "name": "Thyroid Stimulating Hormone",
+        "nickname": "TSH",
+        "type": "minmax",
+        "parameters": {
+            "min": 4.5,
+            "max": 12
+        }
+    }
+]
