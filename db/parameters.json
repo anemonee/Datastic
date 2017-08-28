@@ -2,19 +2,17 @@
     {
         "name": "Vitamin D",
         "nickname": "Vitamin D",
-        "type": "minmax",
-        "parameters": {
-            "min": 0,
-            "max": 100
-        }
+        "type": "levels",
+        "level_values": [20, 30, 100, 50000],
+        "level_names": ["Deficiency", "Insufficiency", "Sufficiency", "Toxicity"],
+        "unit": "ng/ml"
     },
     {
         "name": "Thyroid Stimulating Hormone",
         "nickname": "TSH",
-        "type": "minmax",
-        "parameters": {
-            "min": 4.5,
-            "max": 12
-        }
+        "type": "levels",
+        "level_values": [4.5, 12],
+        "level_names": ["Minimum", "Maximum"],
+        "unit": "μIU/ml"
     }
 ]
