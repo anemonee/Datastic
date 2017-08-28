@@ -2,16 +2,19 @@
     {
         "name": "Rahul Gupta",
         "age": 432,
-        "sex": "M"
+        "sex": "M",
+        "email":"rahulg@gmail.com"
     },
     {
         "name": "Priyanka Jain",
         "age": 396,
-        "sex": "M"
+        "sex": "M",
+        "email": "priyankaj@gmail.com"
     },
     {
         "name": "Dhaani",
         "age": 1,
-        "sex": "M"
+        "sex": "M",
+        "email": "priyankaj+dhaani@gmail.com"
     }
 ]
